@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>u_operating_system</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>50</order>
+        <record_id_field/>
+        <screen display_value="Details">4461f6521ba24014c592dc29cd4bcb31</screen>
+        <screen_data_item_table>alm_hardware</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 06:19:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>be023e921ba24014c592dc29cd4bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_operating_system</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_screen_field_be023e921ba24014c592dc29cd4bcba1</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-27 06:19:39</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</application>
+        <comments/>
+        <file_path/>
+        <instance_id>04e3ddbbdb2c934452e3f70fbf961980</instance_id>
+        <instance_name>alstomstage</instance_name>
+        <name>sys_sg_screen_field_be023e921ba24014c592dc29cd4bcba1</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>u_operating_system</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>50</order><record_id_field/><screen display_value="Details">4461f6521ba24014c592dc29cd4bcb31</screen><screen_data_item_table>alm_hardware</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>419365</sys_created_by><sys_created_on>2020-01-27 06:19:39</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>be023e921ba24014c592dc29cd4bcba1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_operating_system</sys_name><sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope><sys_update_name>sys_sg_screen_field_be023e921ba24014c592dc29cd4bcba1</sys_update_name><sys_updated_by>419365</sys_updated_by><sys_updated_on>2020-01-27 06:19:39</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>1584036475</payload_hash>
+        <record_name>u_operating_system</record_name>
+        <reverted_from/>
+        <source>4738b3821b6248d0b783fc49cd4bcbbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 06:19:39</sys_created_on>
+        <sys_id>36023e921ba24014c592dc29cd4bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fe5a7d5580000001</sys_recorded_at>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-27 06:19:39</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>f2023e92d8a2401457ecd5d500f90aa3</update_guid>
+        <update_guid_history>f2023e92d8a2401457ecd5d500f90aa3:1584036475</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-28 08:28:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>4860816f1c2f48e5a2167517f7dba1e9</sys_id>
+        <sys_metadata>be023e921ba24014c592dc29cd4bcba1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_operating_system</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_scope_delete display_value="">3416b8a8ec39414992c8202d9af392a1</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_be023e921ba24014c592dc29cd4bcba1</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_be023e921ba24014c592dc29cd4bcba1">36023e921ba24014c592dc29cd4bcba4</sys_update_version>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-28 08:28:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

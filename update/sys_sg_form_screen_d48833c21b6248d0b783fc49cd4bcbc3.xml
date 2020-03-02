@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Handshake">1c883b421b6248d0b783fc49cd4bcbb8</icon>
+        <item_view display_value="Hardware Detail Screen Item View">5c883b421b6248d0b783fc49cd4bcbc0</item_view>
+        <name>Receive Orders</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 16:49:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d48833c21b6248d0b783fc49cd4bcbc3</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>Receive Orders</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_form_screen_d48833c21b6248d0b783fc49cd4bcbc3</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-30 09:12:21</sys_updated_on>
+        <table>alm_hardware</table>
+    </sys_sg_form_screen>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="My Stockroom Icon">dd1aef921be64014c592dc29cd4bcb8c</icon>
+        <item_view display_value="My Stockroom Header Item View">5d1aef921be64014c592dc29cd4bcb8f</item_view>
+        <name>My Stockroom</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 10:24:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>591aef921be64014c592dc29cd4bcb92</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>My Stockroom</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_form_screen_591aef921be64014c592dc29cd4bcb92</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-30 09:21:45</sys_updated_on>
+        <table>alm_hardware</table>
+    </sys_sg_form_screen>
+</record_update>

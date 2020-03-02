@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Scan and Audit Button">ed1f80d61ba20014c592dc29cd4bcb39</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>qr_barcode</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Scan and Audit</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder>TagAudit</placeholder>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 18:29:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6e5f80d61ba20014c592dc29cd4bcb41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scan and Audit</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_6e5f80d61ba20014c592dc29cd4bcb41</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-26 18:29:26</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</application>
+        <comments/>
+        <file_path/>
+        <instance_id>04e3ddbbdb2c934452e3f70fbf961980</instance_id>
+        <instance_name>alstomstage</instance_name>
+        <name>sys_sg_ui_parameter_6e5f80d61ba20014c592dc29cd4bcb41</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Scan and Audit Button">ed1f80d61ba20014c592dc29cd4bcb39</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>user</input_source><input_style>inline</input_style><input_type>qr_barcode</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Scan and Audit</name><order/><parameter_type>button</parameter_type><placeholder>TagAudit</placeholder><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>419365</sys_created_by><sys_created_on>2020-01-26 18:29:26</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>6e5f80d61ba20014c592dc29cd4bcb41</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scan and Audit</sys_name><sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope><sys_update_name>sys_sg_ui_parameter_6e5f80d61ba20014c592dc29cd4bcb41</sys_update_name><sys_updated_by>419365</sys_updated_by><sys_updated_on>2020-01-26 18:29:26</sys_updated_on><table_name/></sys_sg_ui_parameter></record_update>]]></payload>
+        <payload_hash>849581776</payload_hash>
+        <record_name>Scan and Audit</record_name>
+        <reverted_from/>
+        <source>4738b3821b6248d0b783fc49cd4bcbbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 18:29:26</sys_created_on>
+        <sys_id>137f44d61ba20014c592dc29cd4bcb90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fe31d9c6c0000001</sys_recorded_at>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-26 18:29:26</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>df7f44d6d7a20014881c20f4f1b11b8e</update_guid>
+        <update_guid_history>df7f44d6d7a20014881c20f4f1b11b8e:849581776</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 06:47:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>6949c4cfd9ec410d83060832cf27a421</sys_id>
+        <sys_metadata>6e5f80d61ba20014c592dc29cd4bcb41</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scan and Audit</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_scope_delete display_value="">3416b8a8ec39414992c8202d9af392a1</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_6e5f80d61ba20014c592dc29cd4bcb41</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_6e5f80d61ba20014c592dc29cd4bcb41">137f44d61ba20014c592dc29cd4bcb90</sys_update_version>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-27 06:47:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

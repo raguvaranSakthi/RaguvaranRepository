@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Parameterized Dataitem</name>
+        <query_condition table="alm_hardware">asset_tag={{inputAssetTag}}<item endquery="false" field="asset_tag" goto="false" newquery="false" operator="=" or="false" value="{{inputAssetTag}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 06:23:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7cd232561ba24014c592dc29cd4bcb5c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Parameterized Dataitem</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_data_item_7cd232561ba24014c592dc29cd4bcb5c</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-27 06:24:25</sys_updated_on>
+        <table>alm_hardware</table>
+    </sys_sg_data_item>
+</record_update>

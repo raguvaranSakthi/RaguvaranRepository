@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>model-41927,asset_tag-22124,install_status-32753,substatus-7686,model-39952</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{},"Id":12259,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"model","Id":41927}]},{"Type":"Text","Margin":{"Top":8},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"asset_tag","Id":22124},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E3","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${install_status}","Id":32752},{"Type":"Text","Margin":{},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"install_status","Id":32753}],"Margin":{"Top":8},"Id":12261},{"Type":"ViewGroup","Margin":{"Top":4},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E4","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${substatus}","Id":7685},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"substatus","Id":7686}],"Id":12262},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E5","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":39950},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E5","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"Id":39951},{"Type":"Text","BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"CellId":"model","Id":39952},{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E6","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":39953},{"Type":"Text","studio_template_field_id":"E6","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"Id":39954}],"Id":12263}],"studio_card_id":"ab9d601d23412300a8ed7f4fc7bf65d4","Id":28090}</item_view_json>
+        <name>My Stockroom Header Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 10:24:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5d1aef921be64014c592dc29cd4bcb8f</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>My Stockroom Header Item View</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_item_view_5d1aef921be64014c592dc29cd4bcb8f</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-30 09:21:45</sys_updated_on>
+        <table>alm_hardware</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

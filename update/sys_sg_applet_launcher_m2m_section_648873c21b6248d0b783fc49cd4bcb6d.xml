@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Inventory Manager">90883b421b6248d0b783fc49cd4bcbba</applet_launcher>
+        <order>20</order>
+        <section display_value="Assets">2c8873c21b6248d0b783fc49cd4bcb6b</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 16:49:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>648873c21b6248d0b783fc49cd4bcb6d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_648873c21b6248d0b783fc49cd4bcb6d</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-29 10:55:51</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

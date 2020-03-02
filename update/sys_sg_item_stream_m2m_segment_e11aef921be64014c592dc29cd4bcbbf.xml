@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="My Stockroom Item Stream">1d1aef921be64014c592dc29cd4bcb88</item_stream>
+        <segment display_value="Item Stream Segment">e51aef921be64014c592dc29cd4bcbbb</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 10:24:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e11aef921be64014c592dc29cd4bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_e11aef921be64014c592dc29cd4bcbbf</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-27 10:24:30</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

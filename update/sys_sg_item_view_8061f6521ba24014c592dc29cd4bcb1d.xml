@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>install_status-11566,substatus-3907,asset_tag-22124,model-3091,install_status-3092</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E1","Text":"","CellId":"install_status","TextColor":"#293e40","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":14},"Margin":{},"Id":11566}],"Id":42845},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","CornerRadius":2,"Margin":{},"studio_template_field_id":"E2","Text":"","CellId":"substatus","TextColor":"#4F5966","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"bold","Size":14},"Id":3907}],"Id":42846}],"Id":12259},{"Type":"Text","Margin":{"Top":11},"CellId":"asset_tag","studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Size":18,"Weight":"medium"},"Text":"","Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":13},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":12},"Text":"","CellId":"model","studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"Id":3091},{"Type":"Text","BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Margin":{"Right":12},"Text":"","TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"CellId":"install_status","Id":3092},{"Type":"Text","Margin":{},"studio_template_field_id":"E5","Text":"","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3093}],"Id":34348}],"Id":12261}],"studio_card_id":"afd7949973812300d396c8168bf6a75e","Id":28090}</item_view_json>
+        <name>Audit Stock Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 06:16:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8061f6521ba24014c592dc29cd4bcb1d</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>Audit Stock Item View</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_item_view_8061f6521ba24014c592dc29cd4bcb1d</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-30 09:21:21</sys_updated_on>
+        <table>alm_hardware</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

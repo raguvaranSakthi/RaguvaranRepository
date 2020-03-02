@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Scanned Asset</name>
+        <query_condition table="alm_hardware">asset_tagISNOTEMPTY<item endquery="false" field="asset_tag" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 18:21:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1a9d00161ba20014c592dc29cd4bcb61</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Scanned Asset</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_data_item_1a9d00161ba20014c592dc29cd4bcb61</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-26 18:36:52</sys_updated_on>
+        <table>alm_hardware</table>
+    </sys_sg_data_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</application>
+        <comments/>
+        <file_path/>
+        <instance_id>04e3ddbbdb2c934452e3f70fbf961980</instance_id>
+        <instance_name>alstomstage</instance_name>
+        <name>sys_sg_data_item_1a9d00161ba20014c592dc29cd4bcb61</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><name>Scanned Asset</name><query_condition table="alm_hardware">asset_tagISNOTEMPTY<item endquery="false" field="asset_tag" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>419365</sys_created_by><sys_created_on>2020-01-26 18:21:10</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>1a9d00161ba20014c592dc29cd4bcb61</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Scanned Asset</sys_name><sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope><sys_update_name>sys_sg_data_item_1a9d00161ba20014c592dc29cd4bcb61</sys_update_name><sys_updated_by>419365</sys_updated_by><sys_updated_on>2020-01-26 18:36:52</sys_updated_on><table>alm_hardware</table></sys_sg_data_item></record_update>]]></payload>
+        <payload_hash>-744811921</payload_hash>
+        <record_name>Scanned Asset</record_name>
+        <reverted_from/>
+        <source>4738b3821b6248d0b783fc49cd4bcbbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 18:36:52</sys_created_on>
+        <sys_id>1831dc1e1ba20014c592dc29cd4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fe3246ab00000001</sys_recorded_at>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-26 18:36:52</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>d431dc1e04a20014c91a7a0feaae999b</update_guid>
+        <update_guid_history>d431dc1e04a20014c91a7a0feaae999b:-744811921,da9d0016fca20014cddaebc9a6156f63:1556255438</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 04:44:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>874b5177d3d04e479f5b76d339701b69</sys_id>
+        <sys_metadata>1a9d00161ba20014c592dc29cd4bcb61</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scanned Asset</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_scope_delete display_value="">3416b8a8ec39414992c8202d9af392a1</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_1a9d00161ba20014c592dc29cd4bcb61</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_1a9d00161ba20014c592dc29cd4bcb61">1831dc1e1ba20014c592dc29cd4bcb9c</sys_update_version>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-27 04:44:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

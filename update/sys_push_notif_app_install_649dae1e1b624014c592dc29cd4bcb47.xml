@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2020-01-27 06:00:05</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-27 06:00:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>649dae1e1b624014c592dc29cd4bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>flxgu0dMQoM:APA91bEjZKybEyOFwCmcbEgM9Wic0QOglDv6y2f5qwPqUpCVlw8Fi0lFD_j7nvHzM2z8fqh8me41ZUC4Riun53s3ls2Sj3bKB1_BqN40efZduBFHq2oy5vfDpcFVsA1RdsiQRQLibbtD</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Classic Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_649dae1e1b624014c592dc29cd4bcb47</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-27 06:00:05</sys_updated_on>
+        <sys_user_id display_value="Raguvaran SAKTHIVEL">2c878f1bdb5f5b880909dcd7489619b3</sys_user_id>
+        <token>flxgu0dMQoM:APA91bEjZKybEyOFwCmcbEgM9Wic0QOglDv6y2f5qwPqUpCVlw8Fi0lFD_j7nvHzM2z8fqh8me41ZUC4Riun53s3ls2Sj3bKB1_BqN40efZduBFHq2oy5vfDpcFVsA1RdsiQRQLibbtD</token>
+    </sys_push_notif_app_install>
+</record_update>

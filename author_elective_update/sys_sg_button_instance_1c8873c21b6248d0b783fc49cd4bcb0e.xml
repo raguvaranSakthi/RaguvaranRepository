@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New Button (Hardware)">1c8833c21b6248d0b783fc49cd4bcbe6</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Hardware)</name>
+        <order>10</order>
+        <parent>dc8833c21b6248d0b783fc49cd4bcbc1</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 16:49:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1c8873c21b6248d0b783fc49cd4bcb0e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New (Hardware)</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1c8873c21b6248d0b783fc49cd4bcb0e</sys_update_name>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-26 18:09:18</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</application>
+        <comments/>
+        <file_path/>
+        <instance_id>04e3ddbbdb2c934452e3f70fbf961980</instance_id>
+        <instance_name>alstomstage</instance_name>
+        <name>sys_sg_button_instance_1c8873c21b6248d0b783fc49cd4bcb0e</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New Button (Hardware)">1c8833c21b6248d0b783fc49cd4bcbe6</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>New</label><location>top</location><name>New (Hardware)</name><order>10</order><parent>dc8833c21b6248d0b783fc49cd4bcbc1</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>419365</sys_created_by><sys_created_on>2020-01-26 16:49:01</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>1c8873c21b6248d0b783fc49cd4bcb0e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>New (Hardware)</sys_name><sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope><sys_update_name>sys_sg_button_instance_1c8873c21b6248d0b783fc49cd4bcb0e</sys_update_name><sys_updated_by>419365</sys_updated_by><sys_updated_on>2020-01-26 18:09:18</sys_updated_on><table/></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>-1153874840</payload_hash>
+        <record_name>New (Hardware)</record_name>
+        <reverted_from/>
+        <source>4738b3821b6248d0b783fc49cd4bcbbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 18:09:18</sys_created_on>
+        <sys_id>10ea88521ba20014c592dc29cd4bcb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fe30b2dc30000001</sys_recorded_at>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-26 18:09:18</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>dcea8852e4a20014931eb084e8c5ce82</update_guid>
+        <update_guid_history>dcea8852e4a20014931eb084e8c5ce82:-1153874840,c188b3c2e96248d061d759b0cf74aa36:747089341</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>419365</sys_created_by>
+        <sys_created_on>2020-01-26 18:13:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>01d7fb47527f4f0a80fa4b48facccf44</sys_id>
+        <sys_metadata>1c8873c21b6248d0b783fc49cd4bcb0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Hardware)</sys_name>
+        <sys_package display_value="Inventory Management" source="x_hclat_invenasset">8338b3821b6248d0b783fc49cd4bcbb9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inventory Management">8338b3821b6248d0b783fc49cd4bcbb9</sys_scope>
+        <sys_scope_delete display_value="">3416b8a8ec39414992c8202d9af392a1</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_1c8873c21b6248d0b783fc49cd4bcb0e</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_1c8873c21b6248d0b783fc49cd4bcb0e">10ea88521ba20014c592dc29cd4bcb84</sys_update_version>
+        <sys_updated_by>419365</sys_updated_by>
+        <sys_updated_on>2020-01-26 18:13:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
